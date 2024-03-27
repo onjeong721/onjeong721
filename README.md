@@ -2,11 +2,12 @@
 <div display=flex>
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/googledrive-4285F4?style=flat-square&logo=googledrive&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   <img src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=youtube&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
