@@ -24,20 +24,23 @@
 
 저와 사계절을 함꼐 할 곳을 찾습니다! 💮🌊🍂☃ 
 
+<br>
+
+
 ### 웹퍼블리셔를 준비하고 있습니다.
 
+👉 개인 포트폴리오 [![Portfolio](https://img.shields.io/static/v1?label=&message=Portfolio&color=f2ede3&logo=github&logoColor=FFFFFF&labelColor=000605)](https://onjeong721.github.io/KMJ-Portfolio/)
+
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
-| 반응형 | 디자인클론코딩 | 리뉴얼|
-| - | - | - |
-| [![Bworld](https://img.shields.io/static/v1?label=&message=Bworld&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://onjeong721.github.io/Bworld/) | [![parpot](https://img.shields.io/static/v1?label=&message=parpot&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)]( https://onjeong721.github.io/ppf-parpot/ )|[![HB-PAPER-RENEWAL ](https://img.shields.io/static/v1?label=&message=HB-PAPER-RENEWAL&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)]( https://onjeong721.github.io/HB-PAPER-RENEWAL/ )|
-|  | |
-|  ||
-| |  |
-| | |
-| | |
-|| |
-|| |
-|  |  |
+| 반응형 | 디자인클론코딩 |
+| - | - | 
+| [![Bworld](https://img.shields.io/static/v1?label=&message=Bworld&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://onjeong721.github.io/Bworld/) | [![parpot](https://img.shields.io/static/v1?label=&message=parpot&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)]( https://onjeong721.github.io/ppf-parpot/ )|
+| [![HB PAPER RENEWAL](https://img.shields.io/static/v1?label=&message=HBPAPERRENEWAL&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://onjeong721.github.io/HB-PAPER-RENEWAL/)| [![KS](https://img.shields.io/static/v1?label=&message=kswallcoverings&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://onjeong721.github.io/kswallcoverings/)|
+| [![HITE JINRO](https://img.shields.io/static/v1?label=&message=HITEJINRO&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://onjeong721.github.io/HITEJINRO/) | [![Nutribullet](https://img.shields.io/static/v1?label=&message=Nutribullet&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://onjeong721.github.io/Nutribullet/)|
+|[![NICE PAYMENTS](https://img.shields.io/static/v1?label=&message=NICEPAYMENTS&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://onjeong721.github.io/NICE-PAYMENTS/) | [![iriver](https://img.shields.io/static/v1?label=&message=iriver&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://onjeong721.github.io/iriver/) | 
+| |[![ACCUNIQ](https://img.shields.io/static/v1?label=&message=ACCUNIQ&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://onjeong721.github.io/ACCUNIQ/) |
+| | [![Lpoint](https://img.shields.io/static/v1?label=&message=Lpoint&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://onjeong721.github.io/L-point/)|
+||[![iriver](https://img.shields.io/static/v1?label=&message=iriver&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://onjeong721.github.io/iriver/) |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onjeong721&layout=compact&)](https://github.com/onjeong721/github-readme-stats)
 
@@ -55,6 +58,4 @@
 <a href="https://instagram.com/onjeong0721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="onjeong0721" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@minjeong721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@minjeong721" height="30" width="40" /></a>
 </p>
-
-![title](https://capsule-render.vercel.app/api?type=venom&height=200&text=Progress,%20not%20perfection.&fontSize=70&color=0:EFBC9B,100:FBF3D5&stroke=b678c4$stroke=b678c4)
 
