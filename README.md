@@ -41,6 +41,7 @@
 | |[![ACCUNIQ](https://img.shields.io/static/v1?label=&message=ACCUNIQ&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://onjeong721.github.io/ACCUNIQ/) |
 | | [![Lpoint](https://img.shields.io/static/v1?label=&message=Lpoint&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://onjeong721.github.io/L-point/)|
 ||[![iriver](https://img.shields.io/static/v1?label=&message=iriver&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://onjeong721.github.io/iriver/) |
+||[![AEKYUNG](https://img.shields.io/static/v1?label=&message=AEKYUNG&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://onjeong721.github.io/Aekyung/)|
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onjeong721&layout=compact&)](https://github.com/onjeong721/github-readme-stats)
 
